@@ -234,7 +234,7 @@ main{padding:0}
 
 <div style="background:var(--surface);border:1px solid #238636;border-radius:6px;padding:1rem 1.5rem;text-align:center;max-width:600px;margin:0 auto 1rem">
   <p style="color:var(--text);margin:0 0 0.5rem;font-size:0.95rem">This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.</p>
-  <a href="https://ko-fi.com/openbankruptcyproject" style="display:inline-block;background:#238636;color:#fff;padding:0.5rem 1.5rem;border-radius:6px;font-weight:600;font-size:0.9rem;text-decoration:none">Support on Ko-fi</a>
+  <a href="https://github.com/sponsors/openbankruptcyproject" style="display:inline-block;background:#238636;color:#fff;padding:0.5rem 1.5rem;border-radius:6px;font-weight:600;font-size:0.9rem;text-decoration:none">Sponsor on GitHub</a>
 </div>
 </div>
 
@@ -268,6 +268,34 @@ main{padding:0}
 <style>
 .related-card:hover {border-color:#58a6ff !important;transform:translateY(-2px)}
 </style>
+<!-- USER JOURNEY CROSS-LINKS (data-driven funnel) -->
+<div style="max-width:900px;margin:1.5rem auto;padding:0 1rem">
+  <p style="color:#f0f6fc;font-weight:700;font-size:1.1rem;margin:0 0 0.5rem 0;text-align:center">Your Next Questions</p>
+  <p style="color:#9eaab6;font-size:0.85rem;margin:0 0 1rem 0;text-align:center">Real users ask these next -- we built the answers.</p>
+  <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:1rem">
+    <a href="https://chapter7vs13.org?utm_source=zombiedebt.org&utm_medium=user-journey&utm_campaign=btn-funnel" class="related-card" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+      <p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">Chapter 7 vs Chapter 13</p>
+      <p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">Filing stops most collection actions immediately</p>
+      <p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">chapter7vs13.org &rarr;</p>
+    </a>
+    <a href="https://howtofilebankruptcy.org?utm_source=zombiedebt.org&utm_medium=user-journey&utm_campaign=btn-funnel" class="related-card" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+      <p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">How to File Bankruptcy</p>
+      <p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">The step-by-step process from start to discharge</p>
+      <p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">howtofilebankruptcy.org &rarr;</p>
+    </a>
+    <a href="https://bankruptcyexemptionsbystate.com?utm_source=zombiedebt.org&utm_medium=user-journey&utm_campaign=btn-funnel" class="related-card" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+      <p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">Exemptions by State</p>
+      <p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">What property creditors cannot take</p>
+      <p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">bankruptcyexemptionsbystate.com &rarr;</p>
+    </a>
+    <a href="https://filebankruptcywithoutlawyer.com?utm_source=zombiedebt.org&utm_medium=user-journey&utm_campaign=btn-funnel" class="related-card" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+      <p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">File Without a Lawyer?</p>
+      <p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">Pro se filing: risks, process, and when it makes sense</p>
+      <p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">filebankruptcywithoutlawyer.com &rarr;</p>
+    </a>
+  </div>
+</div>
+<!-- /USER JOURNEY -->
 <!-- /RELATED GUIDES -->
 
 <!-- STATE GUIDES CROSS-LINK (injected by inject_state_links.py 2026-04-01) -->
@@ -279,7 +307,52 @@ main{padding:0}
 </div>
 <!-- /STATE GUIDES CROSS-LINK -->
 
+<!-- GEO CARD (timezone-based state suggestion) -->
+<div id="geo-card" style="display:none;max-width:700px;margin:1.5rem auto;padding:0 1rem">
+  <div style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-align:center">
+    <p style="color:#f0f6fc;font-weight:600;font-size:1rem;margin:0 0 0.5rem" id="geo-heading">Filing in Your State?</p>
+    <p style="color:#9eaab6;font-size:0.88rem;margin:0 0 0.75rem">Exemptions vary dramatically by state. Check what you can protect.</p>
+    <a id="geo-link" href="https://bankruptcyexemptionsbystate.com/states/?utm_source=zombiedebt.org&utm_medium=geo-card&utm_campaign=btn-funnel" style="display:inline-block;background:#238636;color:#fff;padding:0.45rem 1.25rem;border-radius:6px;font-weight:600;font-size:0.88rem;text-decoration:none">Browse Your State's Exemptions &rarr;</a>
+  </div>
+</div>
+<script>
+(function(){
+  try {
+    var tz = Intl.DateTimeFormat().resolvedOptions().timeZone || '';
+    var map = {
+      'America/New_York': {s:'new-york',n:'New York'},
+      'America/Chicago': {s:'illinois',n:'Illinois'},
+      'America/Denver': {s:'colorado',n:'Colorado'},
+      'America/Los_Angeles': {s:'california',n:'California'},
+      'America/Phoenix': {s:'arizona',n:'Arizona'},
+      'America/Anchorage': {s:'alaska',n:'Alaska'},
+      'Pacific/Honolulu': {s:'hawaii',n:'Hawaii'},
+      'America/Indiana/Indianapolis': {s:'indiana',n:'Indiana'},
+      'America/Detroit': {s:'michigan',n:'Michigan'},
+      'America/Kentucky/Louisville': {s:'kentucky',n:'Kentucky'},
+      'America/Boise': {s:'idaho',n:'Idaho'}
+    };
+    var info = map[tz];
+    if (!info) {
+      if (tz.indexOf('America/New_York') !== -1 || tz.indexOf('Eastern') !== -1) info = map['America/New_York'];
+      else if (tz.indexOf('America/Chicago') !== -1 || tz.indexOf('Central') !== -1) info = map['America/Chicago'];
+      else if (tz.indexOf('America/Denver') !== -1 || tz.indexOf('Mountain') !== -1) info = map['America/Denver'];
+      else if (tz.indexOf('America/Los_Angeles') !== -1 || tz.indexOf('Pacific') !== -1) info = map['America/Los_Angeles'];
+    }
+    if (info) {
+      var src = 'zombiedebt.org';
+      document.getElementById('geo-heading').textContent = 'Filing in ' + info.n + '?';
+      document.getElementById('geo-link').href = 'https://bankruptcyexemptionsbystate.com/states/' + info.s + '.html?utm_source=' + src + '&utm_medium=geo-card&utm_campaign=btn-funnel';
+      document.getElementById('geo-link').textContent = info.n + ' Bankruptcy Exemptions \u2192';
+    }
+    document.getElementById('geo-card').style.display = 'block';
+  } catch(e) {}
+})();
+</script>
+<!-- /GEO CARD -->
 <footer class="network-footer" role="contentinfo">
+  <p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.</p>
+
   <p><strong>Part of the Bankruptcy Transparency Network</strong></p>
   <p>Real information, no strings.</p>
   <div class="links">
@@ -294,7 +367,7 @@ main{padding:0}
     <a href="https://filebankruptcywithoutlawyer.com?utm_source=zombiedebt.org&utm_medium=referral&utm_campaign=btn-network">File Without a Lawyer</a>
     <a href="https://rebuildcreditafterbankruptcy.com?utm_source=zombiedebt.org&utm_medium=referral&utm_campaign=btn-network">Rebuild Credit</a>
     <a href="https://zombiedebt.org">zombiedebt.org</a>
-    <a href="https://ko-fi.com/openbankruptcyproject">Ko-fi</a>
+    <a href="https://github.com/sponsors/openbankruptcyproject">GitHub Sponsors</a>
   </div>
   <p class="disclaimer">Free bankruptcy education for the public interest. Not legal advice.
     If you need legal help, contact a licensed attorney in your state.
