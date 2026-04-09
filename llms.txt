@@ -1,0 +1,24 @@
+# Zombie Debt -- Collection Rights & Statute of Limitations [2026]
+> Zombie debt is old or discharged debt that collectors try to revive. Learn your rights, how to dispute, and when to fight. 2026 guide.
+
+## About
+zombiedebt.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
+
+## Key Pages
+- Zombie Debt -- Collection Rights & Statute of Limitations: https://zombiedebt.org/
+- Zombie Debt and Your Credit Report -- Dispute Old Debts: https://zombiedebt.org/credit-report-rights.html
+- How Debt Buyers Work -- The Zombie Debt Industry: https://zombiedebt.org/debt-buyers.html
+- Debt Validation for Zombie Debt -- Force Collectors to Prove It: https://zombiedebt.org/debt-validation.html
+- Collecting on Discharged Debt -- A Federal Crime: https://zombiedebt.org/discharged-debt-collection.html
+- FDCPA Violations by Zombie Debt Collectors -- Your Rights: https://zombiedebt.org/fdcpa-violations.html
+- Medical Zombie Debt -- Old Hospital Bills Coming Back: https://zombiedebt.org/medical-zombie-debt.html
+- Phantom Debt -- When Collectors Chase Debts That Never Existed: https://zombiedebt.org/phantom-debt.html
+- Statute of Limitations on Zombie Debt -- State-by-State Rules: https://zombiedebt.org/statute-of-limitations.html
+
+## Contact
+- Website: https://openbankruptcyproject.org
+- Email: contact@openbankruptcyproject.org
+- GitHub: https://github.com/openbankruptcyproject
+
+## License
+Content is provided for educational purposes. Data sourced from the Federal Judicial Center Integrated Database (4.9M cases, 94 districts).
