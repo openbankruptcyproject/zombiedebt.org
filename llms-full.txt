@@ -6,16 +6,492 @@ Part of the Open Bankruptcy Project (openbankruptcyproject.org).
 
 ---
 
-## Zombie Debt -- Collection Rights & Statute of Limitations [2026]
+## Zombie Debt and Your Credit Report - Dispute Old Debts
+Source: https://zombiedebt.org/credit-report-rights.html
+
+Zombie Debt and Your Credit Report
+
+How to Dispute Old Debts and Protect Your Credit Score
+
+Home›Zombie Debt and Your Credit Report - Dispute Old Debts | zombiedebt.org›Zombie Debt and Your Credit Report
+
+← Zombie Debt Home
+
+The 7-Year Reporting Rule
+
+Under the Fair Credit Reporting Act (FCRA), most negative items - including collection accounts - can appear on your credit report for a maximum of 7 years from the date of original delinquency with the original creditor. This clock cannot be reset by selling the debt to a new collector or debt buyer.
+
+The "date of original delinquency" is the date you first fell behind on payments with the original creditor and never caught up. This is a fixed date that follows the debt no matter how many times it is sold. A debt buyer who purchases your old account cannot report it as a new collection and extend the reporting period.
+
+What Is Re-Aging?
+
+Re-aging is when a debt collector or debt buyer reports an old debt to the credit bureaus with a more recent date, making it appear newer than it actually is. This practice is illegal under the FCRA. Re-aging can cause a debt that should have already fallen off your credit report to remain there for additional years, unfairly damaging your credit score.
+
+Common re-aging tactics include reporting the date the debt buyer purchased the account as the "open date," or reporting the date of last activity as the date of their first collection attempt rather than your last payment to the original creditor.
+
+How to Dispute Zombie Debt on Your Credit Report
+
+Pull your credit reports from all three bureaus at AnnualCreditReport.com (the only federally authorized free source). Look for collection accounts that are past the 7-year reporting window or that show inaccurate dates. Then:
+
+File a dispute with each bureau that shows the inaccurate information
+
+Include documentation: dates, original creditor records, proof of payment if applicable
+
+Send disputes by certified mail with return receipt requested for a paper trail
+
+The bureau has 30 days to investigate and respond
+
+If the debt collector cannot verify the debt, the bureau must remove it
+
+If the bureau fails to correct the error, you may have grounds for a lawsuit under the FCRA. Successful FCRA claims can result in statutory damages of $100 to $1,000 per violation, plus actual damages, attorney fees, and punitive damages.
+
+Credit Report vs. Statute of Limitations
+
+These are two separate clocks. The statute of limitations determines how long a creditor can sue you. The credit reporting period determines how long the debt can appear on your report. One can expire before the other. For details on the statute of limitations in your state, see debtstatuteoflimitations.com.
+
+A debt can be past the statute of limitations (meaning the collector cannot sue you) but still within the 7-year reporting window. Conversely, a debt may have fallen off your credit report but still be within the statute of limitations. Understanding both timelines is critical to protecting yourself. Monitor your credit with free tools at creditscorebankruptcy.com.
+
+Medical Debt Changes
+
+Recent changes in credit reporting rules have made medical debt less damaging. As of 2023, paid medical collections are removed from credit reports, and unpaid medical collections under $500 are no longer reported. The three major credit bureaus also implemented a one-year waiting period before medical collections can appear on credit reports, giving consumers time to resolve insurance disputes and billing errors.
+
+These changes do not apply to other types of zombie debt, but they represent a significant consumer protection for the most common type of unexpected debt. For more on medical debt specifically, see medicaldebtbankruptcy.com.
+
+Frequently Asked Questions
+
+How long can a debt stay on my credit report?
+
+Most negative items can appear for 7 years from the date of original delinquency. Bankruptcies can appear for 7-10 years. The debt buyer cannot reset this clock by purchasing the account.
+
+What is re-aging and is it illegal?
+
+Re-aging occurs when a debt buyer reports an old debt as a new collection, making it appear more recent than it actually is. This practice is illegal under the Fair Credit Reporting Act.
+
+How do I dispute zombie debt on my credit report?
+
+File a dispute with all three credit bureaus online or by mail. Include documentation showing the debt is time-barred, already paid, or reported inaccurately. The bureau has 30 days to investigate.
+
+Can a debt collector report a debt that is past the statute of limitations?
+
+The statute of limitations and credit reporting period are two different things. A debt can be past the statute of limitations but still within the 7-year reporting window.
+
+Check your bankruptcy discharge eligibility with our free screening tool.
+Free Discharge Screener
+
+About This Data: Content based on the Fair Credit Reporting Act (15 U.S.C. 1681) and the FDCPA. This is educational content, not legal advice.
+
+You May Also Find Helpful
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Cease and Desist Letters for Debt Collectors -- ceaseanddesistdebt.com
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Bankruptcy Transparency Network
+
+Discharge Screener Open Bankruptcy Project Credit Score & Bankruptcy Statute of Limitations
+
+Free bankruptcy education for the public interest. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+---
+
+## How Debt Buyers Work - The Zombie Debt Industry
+Source: https://zombiedebt.org/debt-buyers.html
+
+How Debt Buyers Work
+
+The Industry Behind Zombie Debt Collection
+
+Home›How Debt Buyers Work - The Zombie Debt Industry Explained | zombiedebt.org›How Debt Buyers Work
+
+← Zombie Debt Home
+
+The Debt Buying Industry
+
+When you stop paying a creditor, the account is eventually "charged off" - written off as a loss on the creditor's books, typically after 180 days of nonpayment. But the debt does not disappear. Instead, it enters a massive secondary market where charged-off accounts are bought and sold in bulk.
+
+The debt buying industry generates billions of dollars annually. Original creditors - banks, credit card companies, hospitals, and utilities - sell portfolios of thousands of delinquent accounts to specialized debt purchasing companies. These companies then attempt to collect the full face value of the debt, even though they paid only a fraction of it.
+
+What Debt Buyers Pay
+
+Prices vary dramatically based on the type and age of the debt. Fresh charged-off credit card debt (less than one year old) might sell for 8 to 12 cents on the dollar. Older debt, especially accounts that have been sold multiple times, can sell for as little as 1 to 3 cents on the dollar.
+
+A debt buyer who purchases a $10,000 credit card balance might pay only $300 to $500 for it. Even collecting $2,000 from the consumer represents a massive profit margin. This economic reality drives aggressive collection tactics - the buyer needs to collect on only a small percentage of accounts to profit handsomely.
+
+The Chain of Ownership Problem
+
+Debt is often resold multiple times. Your original credit card company sells to Buyer A, who sells to Buyer B, who sells to Buyer C. At each transfer, documentation quality degrades. Key records - the original signed agreement, complete payment history, and proof of the exact amount owed - are frequently lost or never transferred.
+
+This creates a serious legal problem for debt buyers who try to sue consumers. In court, they must prove they own the specific debt and that the amount claimed is accurate. Without the original documentation, many debt buyer lawsuits collapse when consumers challenge them. Unfortunately, many consumers never respond to lawsuits, leading to default judgments. Learn more at defaultjudgment.org.
+
+What Information Debt Buyers Receive
+
+When purchasing a portfolio, debt buyers typically receive only a spreadsheet (called a "data file" or "media") containing:
+
+Consumer name and last known address
+
+Social Security number (last four digits or full)
+
+Original creditor name and account number
+
+Balance at charge-off and date of last payment
+
+Date the account was opened
+
+What they usually do NOT receive: the original signed credit agreement, a complete payment history, documentation of fees and interest added to the balance, or any communications between you and the original creditor. This lack of documentation is the Achilles heel of the debt buying industry.
+
+Your Rights When Dealing with Debt Buyers
+
+The Fair Debt Collection Practices Act (FDCPA) applies fully to debt buyers. They must provide written notice of the debt within five days of first contact. You have 30 days to request validation. They cannot lie about the amount owed, threaten actions they cannot legally take, or harass you with excessive calls.
+
+Many states have additional consumer protection laws that regulate debt buyers specifically, including licensing requirements and restrictions on suing for old debt. Check your state's statute of limitations on debt to understand your protections.
+
+If you are being overwhelmed by debt buyer collection attempts, bankruptcy provides a permanent solution through the discharge injunction, which makes any future collection a federal court violation.
+
+How to Protect Yourself
+
+Never acknowledge a debt or make a payment without first verifying that the debt is legitimate and that the collector actually owns it. Request validation in writing. Check the statute of limitations for your state. If the debt is time-barred, making even a small payment can restart the clock in some states.
+
+If a debt buyer sues you, do not ignore the lawsuit. Respond within the deadline and demand that the plaintiff prove ownership of the debt and the accuracy of the balance. Many debt buyer lawsuits result in default judgments simply because consumers fail to respond - not because the debt buyer has a strong case.
+
+Frequently Asked Questions
+
+How much do debt buyers pay for old debt?
+
+Debt buyers typically pay between 2 and 10 cents per dollar of face value, depending on the age, type, and documentation quality of the debt portfolio. Older debt and debt without complete documentation sells for less.
+
+Can a debt buyer sue me?
+
+A debt buyer can sue you if the statute of limitations has not expired on the debt. However, they must prove they own the debt and the amount owed. Many debt buyer lawsuits rely on incomplete records, and consumers who respond to the lawsuit often prevail.
+
+How do I verify if a debt buyer legitimately owns my debt?
+
+Send a written debt validation request within 30 days of first contact. The debt buyer must provide documentation showing the chain of ownership from the original creditor, the original account agreement, and an accurate accounting of the balance claimed.
+
+What records do debt buyers receive when they purchase accounts?
+
+Debt buyers often receive only a spreadsheet with names, addresses, account numbers, and balances. They frequently lack the original signed agreements, complete payment histories, or documentation needed to prove the debt in court.
+
+Are there regulations on debt buyers?
+
+Debt buyers must comply with the Fair Debt Collection Practices Act (FDCPA), which prohibits deceptive and abusive collection practices. Some states have additional licensing requirements and consumer protection laws that apply specifically to debt buyers.
+
+Check your bankruptcy discharge eligibility with our free screening tool.
+
+Free Discharge Screener
+
+About This Data: Content based on the Fair Debt Collection Practices Act (15 U.S.C. 1692)
+and federal bankruptcy law (Title 11, U.S. Code). This is educational content, not legal advice.
+
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
+
+You May Also Find Helpful
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Cease and Desist Letters for Debt Collectors -- ceaseanddesistdebt.com
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Bankruptcy Transparency Network
+
+Discharge Screener
+Open Bankruptcy Project
+Debt Validation Letter
+Stop Debt Collectors
+Statute of Limitations
+
+Free bankruptcy education for the public interest. Not legal advice.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (determination pending).
+
+---
+
+## Debt Validation for Zombie Debt - Force Collectors to Prove It
+Source: https://zombiedebt.org/debt-validation.html
+
+Debt Validation for Zombie Debt
+
+Force Collectors to Prove the Debt Is Real
+
+Home›Debt Validation for Zombie Debt - Force Collectors to Prove It | zombiedebt.org›Debt Validation for Zombie Debt
+
+← Zombie Debt Home
+
+Your Right to Demand Proof
+
+When a debt collector contacts you about an old debt, you have a powerful weapon: the right to demand validation. Under Section 1692g of the FDCPA, within 30 days of first contact, you can send a written request requiring the collector to prove the debt is legitimate, that you owe it, and that the amount claimed is accurate.
+
+This right is particularly effective against zombie debt because the older a debt is and the more times it has been resold, the less likely the current collector is to have adequate documentation. Many zombie debt collection attempts collapse entirely when the consumer exercises this right. For a ready-to-use template, visit debtvalidationletter.org.
+
+What Validation Must Include
+
+The collector's initial written notice must include the amount of the debt, the name of the original creditor, and a statement of your rights. When you challenge the debt, the collector must provide verification. Courts have increasingly required meaningful verification - not just a computer printout repeating the same information. Strong validation should include:
+
+The original signed credit agreement or contract
+
+A complete chain of ownership from original creditor to current holder
+
+A detailed accounting of the balance, including all charges, credits, interest, and fees
+
+Proof that the debt has not been paid or discharged
+
+Proof that the statute of limitations has not expired
+
+How to Send a Validation Request
+
+Send your validation request by certified mail with return receipt requested. This creates proof that the collector received your letter. Keep a copy for your records. Do not call the collector - put everything in writing. Do not include any payment, do not acknowledge the debt, and do not provide personal information beyond what is needed to identify the account.
+
+Once the collector receives your timely validation request, they must cease all collection activity until they provide adequate verification. This means no more calls, no more letters, no credit bureau reporting, and no lawsuits until they prove the debt is valid.
+
+When Validation Fails - Next Steps
+
+If the collector fails to validate but continues collection activity, they are violating the FDCPA. Document the violation and consider filing a complaint with the CFPB and consulting a consumer protection attorney. If the collector validates the debt and it is legitimate, you still have options - check the statute of limitations, consider negotiating a settlement, or explore bankruptcy protection.
+
+If you are overwhelmed by multiple zombie debts, bankruptcy may provide a comprehensive solution. The discharge injunction permanently eliminates the obligation to pay and makes future collection attempts a federal court violation.
+
+Frequently Asked Questions
+
+What is debt validation?
+
+Debt validation is your legal right under the FDCPA to demand proof that a debt is yours, that the amount is correct, and that the collector has the legal right to collect it. You have 30 days from first contact to make this request.
+
+What must a collector provide when I request validation?
+
+The collector must provide the name of the original creditor, the amount of the debt, and documentation establishing that the debt is yours. Courts increasingly require the original credit agreement and a complete chain of ownership.
+
+What happens if the collector cannot validate the debt?
+
+If the collector cannot validate the debt, they must cease all collection activity. They cannot call you, send letters, report the debt to credit bureaus, or file a lawsuit until they provide proper validation.
+
+Can I still request validation after 30 days?
+
+You can request validation at any time, but if you send it within the first 30 days, the collector must stop all collection activity until they respond.
+
+Check your bankruptcy discharge eligibility with our free screening tool.
+Free Discharge Screener
+
+About This Data: Content based on the FDCPA (15 U.S.C. 1692g). Educational content, not legal advice.
+
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
+
+You May Also Find Helpful
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Cease and Desist Letters for Debt Collectors -- ceaseanddesistdebt.com
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Bankruptcy Transparency Network
+
+Discharge Screener Debt Validation Letter Open Bankruptcy Project Stop Collectors
+
+Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+---
+
+## Collecting on Discharged Debt - A Federal Crime
+Source: https://zombiedebt.org/discharged-debt-collection.html
+
+Collecting on Discharged Debt
+
+When Zombie Debt Violates a Federal Court Order
+
+Home›Collecting on Discharged Debt - A Federal Crime | zombiedebt.org›Collecting on Discharged Debt
+
+← Zombie Debt Home
+
+The Discharge Injunction
+
+When a bankruptcy case concludes with a discharge, the court issues a permanent injunction under 11 U.S.C. 524 that prohibits any creditor from ever attempting to collect the discharged debts. This is not a suggestion - it is a federal court order backed by the contempt power of the bankruptcy court. Any attempt to collect on discharged debt, whether by the original creditor or a debt buyer who later purchases the account, violates this injunction.
+
+The discharge injunction is one of the most powerful consumer protections in American law. It does not expire, it cannot be waived, and it survives the sale or transfer of the debt to any subsequent holder. Learn more about this protection at 524injunction.com.
+
+Why Debt Buyers Target Discharged Debt
+
+Debt buyers frequently purchase portfolios that contain accounts that were discharged in bankruptcy. This happens because the original creditor's records may not reflect the discharge, the debt was sold before the discharge was entered, or the debt buyer simply failed to check bankruptcy records before beginning collection.
+
+Some debt buyers knowingly collect on discharged debt, counting on the fact that most consumers do not remember the details of their bankruptcy case from years or decades ago. A consumer who went through bankruptcy 15 years ago may not immediately recognize that a collection call relates to a debt that was already eliminated.
+
+What to Do If Contacted About Discharged Debt
+
+Locate your bankruptcy discharge order (check your records, PACER, or call the bankruptcy court clerk)
+
+Send the collector a copy of the discharge order by certified mail with a letter demanding they cease all activity
+
+Document every contact - dates, times, what was said, who called
+
+If collection continues after they receive the discharge order, contact a bankruptcy attorney
+
+File a motion for contempt in the bankruptcy court that issued your discharge
+
+File a complaint with the CFPB and your state attorney general
+
+Remedies for Discharge Violations
+
+Courts take discharge injunction violations seriously. Remedies can include compensatory damages for actual harm (emotional distress, lost wages, credit damage), attorney fees, costs of bringing the contempt motion, and punitive damages in egregious cases. Some courts have awarded damages in the thousands or tens of thousands of dollars for willful discharge violations.
+
+You may also have parallel claims under the FDCPA, which provides for statutory damages of up to $1,000 per lawsuit plus actual damages and attorney fees. In some cases, consumers pursue both contempt and FDCPA claims simultaneously.
+
+Frequently Asked Questions
+
+What happens if a collector tries to collect a discharged debt?
+
+Collecting on a discharged debt violates the federal discharge injunction under 11 U.S.C. 524. The collector can be held in contempt of court and ordered to pay damages, attorney fees, and potentially punitive damages.
+
+How do I prove a debt was discharged in bankruptcy?
+
+Your bankruptcy discharge order lists the case number and date of discharge. You can obtain a copy from PACER or by contacting the bankruptcy court clerk.
+
+Can a debt buyer know if a debt was discharged?
+
+Debt buyers are supposed to scrub their portfolios against bankruptcy records before attempting collection. However, many fail to do so, especially with very old debt.
+
+What should I do if contacted about a discharged debt?
+
+Send the collector a copy of your discharge order by certified mail and demand they cease all collection activity. If they continue, file a motion for contempt in the bankruptcy court.
+
+Check your bankruptcy discharge eligibility with our free screening tool.
+Free Discharge Screener
+
+About This Data: Content based on 11 U.S.C. 524 and the FDCPA. Educational content, not legal advice.
+
+You May Also Find Helpful
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Cease and Desist Letters for Debt Collectors -- ceaseanddesistdebt.com
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Bankruptcy Transparency Network
+
+Discharge Screener Discharge Injunction Open Bankruptcy Project Bankruptcy Discharge
+
+Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+---
+
+## FDCPA Violations by Zombie Debt Collectors - Your Rights
+Source: https://zombiedebt.org/fdcpa-violations.html
+
+FDCPA Violations by Zombie Debt Collectors
+
+Know Your Rights Under Federal Law
+
+Home›FDCPA Violations by Zombie Debt Collectors - Your Rights | zombiedebt.org›FDCPA Violations by Zombie Debt Collectors
+
+← Zombie Debt Home
+
+The FDCPA and Zombie Debt
+
+The Fair Debt Collection Practices Act (FDCPA), codified at 15 U.S.C. 1692, is the primary federal law governing debt collection. It applies to third-party debt collectors and debt buyers - the exact entities most commonly involved in zombie debt collection. The law prohibits deceptive, unfair, and abusive collection practices and gives consumers specific rights when dealing with collectors.
+
+Zombie debt collectors are among the most frequent FDCPA violators because their business model - collecting on old, poorly documented debt - inherently creates situations where the law is likely to be broken. When a collector contacts you about debt that is decades old, was already paid, or was discharged in bankruptcy, the chances of an FDCPA violation are extremely high.
+
+Common Violations in Zombie Debt Collection
+
+Threatening to sue on time-barred debt: If the statute of limitations has expired, threatening legal action violates the FDCPA's prohibition on false or misleading representations.
+
+Collecting discharged debt: Attempting to collect a debt that was discharged in bankruptcy violates both the FDCPA and the bankruptcy court's discharge injunction.
+
+Misrepresenting the amount owed: Adding unauthorized fees, interest, or penalties to the original balance.
+
+Failing to validate: Not providing written notice of the debt within 5 days of first contact, or failing to verify the debt when challenged.
+
+Harassment: Calling repeatedly, using profanity, threatening violence, or contacting third parties about your debt.
+
+Collecting from the wrong person: When documentation is poor, debt buyers sometimes pursue the wrong consumer entirely.
+
+Documenting Violations
+
+If you believe a zombie debt collector is violating the FDCPA, documentation is everything. Start a detailed log of every interaction. For each contact, record the date, time, phone number, name of the caller, what was said, and any threats or misrepresentations made. Save all written communications - letters, emails, and text messages.
+
+If your state permits one-party consent recording (meaning you can record a conversation you are part of without the other person's knowledge), consider recording calls with debt collectors. In two-party consent states, you can inform the collector at the start of the call that you are recording. Many consumers have won significant FDCPA cases based on recorded calls showing clear violations.
+
+Filing Complaints and Lawsuits
+
+Report FDCPA violations to the Consumer Financial Protection Bureau (CFPB) at consumerfinance.gov, your state attorney general, and the Federal Trade Commission (FTC). These agencies can take enforcement action against repeat violators and large debt buying operations.
+
+You also have a private right of action under the FDCPA. You can sue the collector in state or federal court for statutory damages up to $1,000 per lawsuit, actual damages (including emotional distress), and attorney fees. Many consumer protection attorneys take FDCPA cases on contingency because the statute provides for fee-shifting - the collector pays your attorney fees if you win.
+
+The deadline to file is one year from the date of the violation. Do not wait. If you need to stop collection calls immediately, send a cease and desist letter.
+
+Frequently Asked Questions
+
+What are common FDCPA violations by zombie debt collectors?
+
+Common violations include threatening to sue on time-barred debt, misrepresenting the amount owed, failing to send written validation notices, calling before 8am or after 9pm, and using abusive or threatening language.
+
+Can I sue a debt collector for FDCPA violations?
+
+Yes. You can sue for statutory damages up to $1,000 per lawsuit, plus actual damages and attorney fees. Many consumer protection attorneys take these cases on contingency.
+
+How do I document FDCPA violations?
+
+Keep a log of every call with date, time, caller ID, and what was said. Save all voicemails, letters, emails, and text messages. Record calls if your state allows one-party consent recording.
+
+What is the statute of limitations for FDCPA claims?
+
+You have one year from the date of the violation to file an FDCPA lawsuit. This is a strict deadline.
+
+Check your bankruptcy discharge eligibility with our free screening tool.
+Free Discharge Screener
+
+About This Data: Content based on the FDCPA (15 U.S.C. 1692). This is educational content, not legal advice.
+
+You May Also Find Helpful
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Bankruptcy Transparency Network
+
+Discharge Screener Open Bankruptcy Project Debt Validation Letter Cease and Desist
+
+Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+---
+
+## Zombie Debt - Collection Rights & Statute of Limitations [2026]
 Source: https://zombiedebt.org/
 
-Zombie Debt -- Collection Rights & How to Fight Back
+Skip to main content
+
+Zombie Debt - Collection Rights & How to Fight Back
 
 Old Debts That Won't Stay Dead
 
 What Is Zombie Debt?
 
-Zombie debt is old debt that has been charged off, sold to a debt buyer, and is now being collected again -- sometimes years or decades after you last made a payment. Like zombies, these debts keep coming back even when they should be dead.
+Zombie debt is old debt that has been charged off, sold to a debt buyer, and is now being collected again - sometimes years or decades after you last made a payment. Like zombies, these debts keep coming back even when they should be dead.
 
 How Zombie Debt Works
 
@@ -23,13 +499,13 @@ Original creditors sell charged-off debt to debt buyers for 2-5 cents on the dol
 
 Your Rights Against Zombie Debt Collectors
 
-Request debt validation in writing within 30 days of first contact. Check the statute of limitations -- if expired, the collector cannot sue. Do not acknowledge the debt or make any payment (this can restart the clock in some states). Report FDCPA violations to the CFPB and your state attorney general.
+Request debt validation in writing within 30 days of first contact. Check the statute of limitations - if expired, the collector cannot sue. Do not acknowledge the debt or make any payment (this can restart the clock in some states). Report FDCPA violations to the CFPB and your state attorney general.
 
 Check your state's statute of limitations. Send a cease and desist letter.
 
 Common Zombie Debt Scams
 
-Threatening to sue on time-barred debt. Adding unauthorized fees and interest. Collecting on debts already discharged in bankruptcy (a federal crime). Collecting from the wrong person. Phantom debt -- debts that never existed at all.
+Threatening to sue on time-barred debt. Adding unauthorized fees and interest. Collecting on debts already discharged in bankruptcy (a federal crime). Collecting from the wrong person. Phantom debt - debts that never existed at all.
 
 When Bankruptcy Helps
 
@@ -118,7 +594,7 @@ debtcollectionlawsuit.org →
 
 Your Next Questions
 
-Real users ask these next -- we built the answers.
+Real users ask these next - we built the answers.
 
 Chapter 7 vs Chapter 13
 
@@ -232,7 +708,7 @@ You May Also Find Helpful
 
 Statute of Limitations on Zombie Debt by State
 
-Debt Validation Letter -- Free Template -- debtvalidationletter.org
+Debt Validation Letter - Free Template -- debtvalidationletter.org
 
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
@@ -258,6 +734,7 @@ File Without a Lawyer
 Rebuild Credit
 zombiedebt.org
 ♥ Sponsor
+Rule 9037 PII Scanner
 
 Free bankruptcy education for the public interest. Not legal advice.
 If you need legal help, contact a licensed attorney in your state.
@@ -269,470 +746,18 @@ Terms
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
----
-
-## Zombie Debt and Your Credit Report -- Dispute Old Debts
-Source: https://zombiedebt.org/credit-report-rights.html
-
-Zombie Debt and Your Credit Report
-
-How to Dispute Old Debts and Protect Your Credit Score
-
-← Zombie Debt Home
-
-The 7-Year Reporting Rule
-
-Under the Fair Credit Reporting Act (FCRA), most negative items -- including collection accounts -- can appear on your credit report for a maximum of 7 years from the date of original delinquency with the original creditor. This clock cannot be reset by selling the debt to a new collector or debt buyer.
-
-The "date of original delinquency" is the date you first fell behind on payments with the original creditor and never caught up. This is a fixed date that follows the debt no matter how many times it is sold. A debt buyer who purchases your old account cannot report it as a new collection and extend the reporting period.
-
-What Is Re-Aging?
-
-Re-aging is when a debt collector or debt buyer reports an old debt to the credit bureaus with a more recent date, making it appear newer than it actually is. This practice is illegal under the FCRA. Re-aging can cause a debt that should have already fallen off your credit report to remain there for additional years, unfairly damaging your credit score.
-
-Common re-aging tactics include reporting the date the debt buyer purchased the account as the "open date," or reporting the date of last activity as the date of their first collection attempt rather than your last payment to the original creditor.
-
-How to Dispute Zombie Debt on Your Credit Report
-
-Pull your credit reports from all three bureaus at AnnualCreditReport.com (the only federally authorized free source). Look for collection accounts that are past the 7-year reporting window or that show inaccurate dates. Then:
-
-File a dispute with each bureau that shows the inaccurate information
-
-Include documentation: dates, original creditor records, proof of payment if applicable
-
-Send disputes by certified mail with return receipt requested for a paper trail
-
-The bureau has 30 days to investigate and respond
-
-If the debt collector cannot verify the debt, the bureau must remove it
-
-If the bureau fails to correct the error, you may have grounds for a lawsuit under the FCRA. Successful FCRA claims can result in statutory damages of $100 to $1,000 per violation, plus actual damages, attorney fees, and punitive damages.
-
-Credit Report vs. Statute of Limitations
-
-These are two separate clocks. The statute of limitations determines how long a creditor can sue you. The credit reporting period determines how long the debt can appear on your report. One can expire before the other. For details on the statute of limitations in your state, see debtstatuteoflimitations.com.
-
-A debt can be past the statute of limitations (meaning the collector cannot sue you) but still within the 7-year reporting window. Conversely, a debt may have fallen off your credit report but still be within the statute of limitations. Understanding both timelines is critical to protecting yourself. Monitor your credit with free tools at creditscorebankruptcy.com.
-
-Medical Debt Changes
-
-Recent changes in credit reporting rules have made medical debt less damaging. As of 2023, paid medical collections are removed from credit reports, and unpaid medical collections under $500 are no longer reported. The three major credit bureaus also implemented a one-year waiting period before medical collections can appear on credit reports, giving consumers time to resolve insurance disputes and billing errors.
-
-These changes do not apply to other types of zombie debt, but they represent a significant consumer protection for the most common type of unexpected debt. For more on medical debt specifically, see medicaldebtbankruptcy.com.
-
-Frequently Asked Questions
-
-How long can a debt stay on my credit report?
-
-Most negative items can appear for 7 years from the date of original delinquency. Bankruptcies can appear for 7-10 years. The debt buyer cannot reset this clock by purchasing the account.
-
-What is re-aging and is it illegal?
-
-Re-aging occurs when a debt buyer reports an old debt as a new collection, making it appear more recent than it actually is. This practice is illegal under the Fair Credit Reporting Act.
-
-How do I dispute zombie debt on my credit report?
-
-File a dispute with all three credit bureaus online or by mail. Include documentation showing the debt is time-barred, already paid, or reported inaccurately. The bureau has 30 days to investigate.
-
-Can a debt collector report a debt that is past the statute of limitations?
-
-The statute of limitations and credit reporting period are two different things. A debt can be past the statute of limitations but still within the 7-year reporting window.
-
-Check your bankruptcy discharge eligibility with our free screening tool.
-Free Discharge Screener
-
-About This Data: Content based on the Fair Credit Reporting Act (15 U.S.C. 1681) and the FDCPA. This is educational content, not legal advice.
-
-You May Also Find Helpful
-
-Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
-
-Bankruptcy Means Test by State -- bankruptcymeanstest.org
-
-Cease and Desist Letters for Debt Collectors -- ceaseanddesistdebt.com
-
-1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Bankruptcy Transparency Network
-
-Discharge Screener Open Bankruptcy Project Credit Score & Bankruptcy Statute of Limitations
-
-Free bankruptcy education for the public interest. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+Cited by the Federal Rules Committee (26-BK-3)
 
 ---
 
-## How Debt Buyers Work -- The Zombie Debt Industry
-Source: https://zombiedebt.org/debt-buyers.html
-
-How Debt Buyers Work
-
-The Industry Behind Zombie Debt Collection
-
-← Zombie Debt Home
-
-The Debt Buying Industry
-
-When you stop paying a creditor, the account is eventually "charged off" -- written off as a loss on the creditor's books, typically after 180 days of nonpayment. But the debt does not disappear. Instead, it enters a massive secondary market where charged-off accounts are bought and sold in bulk.
-
-The debt buying industry generates billions of dollars annually. Original creditors -- banks, credit card companies, hospitals, and utilities -- sell portfolios of thousands of delinquent accounts to specialized debt purchasing companies. These companies then attempt to collect the full face value of the debt, even though they paid only a fraction of it.
-
-What Debt Buyers Pay
-
-Prices vary dramatically based on the type and age of the debt. Fresh charged-off credit card debt (less than one year old) might sell for 8 to 12 cents on the dollar. Older debt, especially accounts that have been sold multiple times, can sell for as little as 1 to 3 cents on the dollar.
-
-A debt buyer who purchases a $10,000 credit card balance might pay only $300 to $500 for it. Even collecting $2,000 from the consumer represents a massive profit margin. This economic reality drives aggressive collection tactics -- the buyer needs to collect on only a small percentage of accounts to profit handsomely.
-
-The Chain of Ownership Problem
-
-Debt is often resold multiple times. Your original credit card company sells to Buyer A, who sells to Buyer B, who sells to Buyer C. At each transfer, documentation quality degrades. Key records -- the original signed agreement, complete payment history, and proof of the exact amount owed -- are frequently lost or never transferred.
-
-This creates a serious legal problem for debt buyers who try to sue consumers. In court, they must prove they own the specific debt and that the amount claimed is accurate. Without the original documentation, many debt buyer lawsuits collapse when consumers challenge them. Unfortunately, many consumers never respond to lawsuits, leading to default judgments. Learn more at defaultjudgment.org.
-
-What Information Debt Buyers Receive
-
-When purchasing a portfolio, debt buyers typically receive only a spreadsheet (called a "data file" or "media") containing:
-
-Consumer name and last known address
-
-Social Security number (last four digits or full)
-
-Original creditor name and account number
-
-Balance at charge-off and date of last payment
-
-Date the account was opened
-
-What they usually do NOT receive: the original signed credit agreement, a complete payment history, documentation of fees and interest added to the balance, or any communications between you and the original creditor. This lack of documentation is the Achilles heel of the debt buying industry.
-
-Your Rights When Dealing with Debt Buyers
-
-The Fair Debt Collection Practices Act (FDCPA) applies fully to debt buyers. They must provide written notice of the debt within five days of first contact. You have 30 days to request validation. They cannot lie about the amount owed, threaten actions they cannot legally take, or harass you with excessive calls.
-
-Many states have additional consumer protection laws that regulate debt buyers specifically, including licensing requirements and restrictions on suing for old debt. Check your state's statute of limitations on debt to understand your protections.
-
-If you are being overwhelmed by debt buyer collection attempts, bankruptcy provides a permanent solution through the discharge injunction, which makes any future collection a federal court violation.
-
-How to Protect Yourself
-
-Never acknowledge a debt or make a payment without first verifying that the debt is legitimate and that the collector actually owns it. Request validation in writing. Check the statute of limitations for your state. If the debt is time-barred, making even a small payment can restart the clock in some states.
-
-If a debt buyer sues you, do not ignore the lawsuit. Respond within the deadline and demand that the plaintiff prove ownership of the debt and the accuracy of the balance. Many debt buyer lawsuits result in default judgments simply because consumers fail to respond -- not because the debt buyer has a strong case.
-
-Frequently Asked Questions
-
-How much do debt buyers pay for old debt?
-
-Debt buyers typically pay between 2 and 10 cents per dollar of face value, depending on the age, type, and documentation quality of the debt portfolio. Older debt and debt without complete documentation sells for less.
-
-Can a debt buyer sue me?
-
-A debt buyer can sue you if the statute of limitations has not expired on the debt. However, they must prove they own the debt and the amount owed. Many debt buyer lawsuits rely on incomplete records, and consumers who respond to the lawsuit often prevail.
-
-How do I verify if a debt buyer legitimately owns my debt?
-
-Send a written debt validation request within 30 days of first contact. The debt buyer must provide documentation showing the chain of ownership from the original creditor, the original account agreement, and an accurate accounting of the balance claimed.
-
-What records do debt buyers receive when they purchase accounts?
-
-Debt buyers often receive only a spreadsheet with names, addresses, account numbers, and balances. They frequently lack the original signed agreements, complete payment histories, or documentation needed to prove the debt in court.
-
-Are there regulations on debt buyers?
-
-Debt buyers must comply with the Fair Debt Collection Practices Act (FDCPA), which prohibits deceptive and abusive collection practices. Some states have additional licensing requirements and consumer protection laws that apply specifically to debt buyers.
-
-Check your bankruptcy discharge eligibility with our free screening tool.
-
-Free Discharge Screener
-
-About This Data: Content based on the Fair Debt Collection Practices Act (15 U.S.C. 1692)
-and federal bankruptcy law (Title 11, U.S. Code). This is educational content, not legal advice.
-
-You May Also Find Helpful
-
-Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
-
-Bankruptcy Means Test by State -- bankruptcymeanstest.org
-
-Cease and Desist Letters for Debt Collectors -- ceaseanddesistdebt.com
-
-1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Bankruptcy Transparency Network
-
-Discharge Screener
-Open Bankruptcy Project
-Debt Validation Letter
-Stop Debt Collectors
-Statute of Limitations
-
-Free bankruptcy education for the public interest. Not legal advice.
-A project of the Open Bankruptcy Project,
-a 501(c)(3) nonprofit (determination pending).
-
----
-
-## Debt Validation for Zombie Debt -- Force Collectors to Prove It
-Source: https://zombiedebt.org/debt-validation.html
-
-Debt Validation for Zombie Debt
-
-Force Collectors to Prove the Debt Is Real
-
-← Zombie Debt Home
-
-Your Right to Demand Proof
-
-When a debt collector contacts you about an old debt, you have a powerful weapon: the right to demand validation. Under Section 1692g of the FDCPA, within 30 days of first contact, you can send a written request requiring the collector to prove the debt is legitimate, that you owe it, and that the amount claimed is accurate.
-
-This right is particularly effective against zombie debt because the older a debt is and the more times it has been resold, the less likely the current collector is to have adequate documentation. Many zombie debt collection attempts collapse entirely when the consumer exercises this right. For a ready-to-use template, visit debtvalidationletter.org.
-
-What Validation Must Include
-
-The collector's initial written notice must include the amount of the debt, the name of the original creditor, and a statement of your rights. When you challenge the debt, the collector must provide verification. Courts have increasingly required meaningful verification -- not just a computer printout repeating the same information. Strong validation should include:
-
-The original signed credit agreement or contract
-
-A complete chain of ownership from original creditor to current holder
-
-A detailed accounting of the balance, including all charges, credits, interest, and fees
-
-Proof that the debt has not been paid or discharged
-
-Proof that the statute of limitations has not expired
-
-How to Send a Validation Request
-
-Send your validation request by certified mail with return receipt requested. This creates proof that the collector received your letter. Keep a copy for your records. Do not call the collector -- put everything in writing. Do not include any payment, do not acknowledge the debt, and do not provide personal information beyond what is needed to identify the account.
-
-Once the collector receives your timely validation request, they must cease all collection activity until they provide adequate verification. This means no more calls, no more letters, no credit bureau reporting, and no lawsuits until they prove the debt is valid.
-
-When Validation Fails -- Next Steps
-
-If the collector fails to validate but continues collection activity, they are violating the FDCPA. Document the violation and consider filing a complaint with the CFPB and consulting a consumer protection attorney. If the collector validates the debt and it is legitimate, you still have options -- check the statute of limitations, consider negotiating a settlement, or explore bankruptcy protection.
-
-If you are overwhelmed by multiple zombie debts, bankruptcy may provide a comprehensive solution. The discharge injunction permanently eliminates the obligation to pay and makes future collection attempts a federal court violation.
-
-Frequently Asked Questions
-
-What is debt validation?
-
-Debt validation is your legal right under the FDCPA to demand proof that a debt is yours, that the amount is correct, and that the collector has the legal right to collect it. You have 30 days from first contact to make this request.
-
-What must a collector provide when I request validation?
-
-The collector must provide the name of the original creditor, the amount of the debt, and documentation establishing that the debt is yours. Courts increasingly require the original credit agreement and a complete chain of ownership.
-
-What happens if the collector cannot validate the debt?
-
-If the collector cannot validate the debt, they must cease all collection activity. They cannot call you, send letters, report the debt to credit bureaus, or file a lawsuit until they provide proper validation.
-
-Can I still request validation after 30 days?
-
-You can request validation at any time, but if you send it within the first 30 days, the collector must stop all collection activity until they respond.
-
-Check your bankruptcy discharge eligibility with our free screening tool.
-Free Discharge Screener
-
-About This Data: Content based on the FDCPA (15 U.S.C. 1692g). Educational content, not legal advice.
-
-You May Also Find Helpful
-
-Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
-
-Bankruptcy Means Test by State -- bankruptcymeanstest.org
-
-Cease and Desist Letters for Debt Collectors -- ceaseanddesistdebt.com
-
-1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Bankruptcy Transparency Network
-
-Discharge Screener Debt Validation Letter Open Bankruptcy Project Stop Collectors
-
-Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
-
----
-
-## Collecting on Discharged Debt -- A Federal Crime
-Source: https://zombiedebt.org/discharged-debt-collection.html
-
-Collecting on Discharged Debt
-
-When Zombie Debt Violates a Federal Court Order
-
-← Zombie Debt Home
-
-The Discharge Injunction
-
-When a bankruptcy case concludes with a discharge, the court issues a permanent injunction under 11 U.S.C. 524 that prohibits any creditor from ever attempting to collect the discharged debts. This is not a suggestion -- it is a federal court order backed by the contempt power of the bankruptcy court. Any attempt to collect on discharged debt, whether by the original creditor or a debt buyer who later purchases the account, violates this injunction.
-
-The discharge injunction is one of the most powerful consumer protections in American law. It does not expire, it cannot be waived, and it survives the sale or transfer of the debt to any subsequent holder. Learn more about this protection at 524injunction.com.
-
-Why Debt Buyers Target Discharged Debt
-
-Debt buyers frequently purchase portfolios that contain accounts that were discharged in bankruptcy. This happens because the original creditor's records may not reflect the discharge, the debt was sold before the discharge was entered, or the debt buyer simply failed to check bankruptcy records before beginning collection.
-
-Some debt buyers knowingly collect on discharged debt, counting on the fact that most consumers do not remember the details of their bankruptcy case from years or decades ago. A consumer who went through bankruptcy 15 years ago may not immediately recognize that a collection call relates to a debt that was already eliminated.
-
-What to Do If Contacted About Discharged Debt
-
-Locate your bankruptcy discharge order (check your records, PACER, or call the bankruptcy court clerk)
-
-Send the collector a copy of the discharge order by certified mail with a letter demanding they cease all activity
-
-Document every contact -- dates, times, what was said, who called
-
-If collection continues after they receive the discharge order, contact a bankruptcy attorney
-
-File a motion for contempt in the bankruptcy court that issued your discharge
-
-File a complaint with the CFPB and your state attorney general
-
-Remedies for Discharge Violations
-
-Courts take discharge injunction violations seriously. Remedies can include compensatory damages for actual harm (emotional distress, lost wages, credit damage), attorney fees, costs of bringing the contempt motion, and punitive damages in egregious cases. Some courts have awarded damages in the thousands or tens of thousands of dollars for willful discharge violations.
-
-You may also have parallel claims under the FDCPA, which provides for statutory damages of up to $1,000 per lawsuit plus actual damages and attorney fees. In some cases, consumers pursue both contempt and FDCPA claims simultaneously.
-
-Frequently Asked Questions
-
-What happens if a collector tries to collect a discharged debt?
-
-Collecting on a discharged debt violates the federal discharge injunction under 11 U.S.C. 524. The collector can be held in contempt of court and ordered to pay damages, attorney fees, and potentially punitive damages.
-
-How do I prove a debt was discharged in bankruptcy?
-
-Your bankruptcy discharge order lists the case number and date of discharge. You can obtain a copy from PACER or by contacting the bankruptcy court clerk.
-
-Can a debt buyer know if a debt was discharged?
-
-Debt buyers are supposed to scrub their portfolios against bankruptcy records before attempting collection. However, many fail to do so, especially with very old debt.
-
-What should I do if contacted about a discharged debt?
-
-Send the collector a copy of your discharge order by certified mail and demand they cease all collection activity. If they continue, file a motion for contempt in the bankruptcy court.
-
-Check your bankruptcy discharge eligibility with our free screening tool.
-Free Discharge Screener
-
-About This Data: Content based on 11 U.S.C. 524 and the FDCPA. Educational content, not legal advice.
-
-You May Also Find Helpful
-
-Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
-
-Bankruptcy Means Test by State -- bankruptcymeanstest.org
-
-Cease and Desist Letters for Debt Collectors -- ceaseanddesistdebt.com
-
-1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Bankruptcy Transparency Network
-
-Discharge Screener Discharge Injunction Open Bankruptcy Project Bankruptcy Discharge
-
-Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
-
----
-
-## FDCPA Violations by Zombie Debt Collectors -- Your Rights
-Source: https://zombiedebt.org/fdcpa-violations.html
-
-FDCPA Violations by Zombie Debt Collectors
-
-Know Your Rights Under Federal Law
-
-← Zombie Debt Home
-
-The FDCPA and Zombie Debt
-
-The Fair Debt Collection Practices Act (FDCPA), codified at 15 U.S.C. 1692, is the primary federal law governing debt collection. It applies to third-party debt collectors and debt buyers -- the exact entities most commonly involved in zombie debt collection. The law prohibits deceptive, unfair, and abusive collection practices and gives consumers specific rights when dealing with collectors.
-
-Zombie debt collectors are among the most frequent FDCPA violators because their business model -- collecting on old, poorly documented debt -- inherently creates situations where the law is likely to be broken. When a collector contacts you about debt that is decades old, was already paid, or was discharged in bankruptcy, the chances of an FDCPA violation are extremely high.
-
-Common Violations in Zombie Debt Collection
-
-Threatening to sue on time-barred debt: If the statute of limitations has expired, threatening legal action violates the FDCPA's prohibition on false or misleading representations.
-
-Collecting discharged debt: Attempting to collect a debt that was discharged in bankruptcy violates both the FDCPA and the bankruptcy court's discharge injunction.
-
-Misrepresenting the amount owed: Adding unauthorized fees, interest, or penalties to the original balance.
-
-Failing to validate: Not providing written notice of the debt within 5 days of first contact, or failing to verify the debt when challenged.
-
-Harassment: Calling repeatedly, using profanity, threatening violence, or contacting third parties about your debt.
-
-Collecting from the wrong person: When documentation is poor, debt buyers sometimes pursue the wrong consumer entirely.
-
-Documenting Violations
-
-If you believe a zombie debt collector is violating the FDCPA, documentation is everything. Start a detailed log of every interaction. For each contact, record the date, time, phone number, name of the caller, what was said, and any threats or misrepresentations made. Save all written communications -- letters, emails, and text messages.
-
-If your state permits one-party consent recording (meaning you can record a conversation you are part of without the other person's knowledge), consider recording calls with debt collectors. In two-party consent states, you can inform the collector at the start of the call that you are recording. Many consumers have won significant FDCPA cases based on recorded calls showing clear violations.
-
-Filing Complaints and Lawsuits
-
-Report FDCPA violations to the Consumer Financial Protection Bureau (CFPB) at consumerfinance.gov, your state attorney general, and the Federal Trade Commission (FTC). These agencies can take enforcement action against repeat violators and large debt buying operations.
-
-You also have a private right of action under the FDCPA. You can sue the collector in state or federal court for statutory damages up to $1,000 per lawsuit, actual damages (including emotional distress), and attorney fees. Many consumer protection attorneys take FDCPA cases on contingency because the statute provides for fee-shifting -- the collector pays your attorney fees if you win.
-
-The deadline to file is one year from the date of the violation. Do not wait. If you need to stop collection calls immediately, send a cease and desist letter.
-
-Frequently Asked Questions
-
-What are common FDCPA violations by zombie debt collectors?
-
-Common violations include threatening to sue on time-barred debt, misrepresenting the amount owed, failing to send written validation notices, calling before 8am or after 9pm, and using abusive or threatening language.
-
-Can I sue a debt collector for FDCPA violations?
-
-Yes. You can sue for statutory damages up to $1,000 per lawsuit, plus actual damages and attorney fees. Many consumer protection attorneys take these cases on contingency.
-
-How do I document FDCPA violations?
-
-Keep a log of every call with date, time, caller ID, and what was said. Save all voicemails, letters, emails, and text messages. Record calls if your state allows one-party consent recording.
-
-What is the statute of limitations for FDCPA claims?
-
-You have one year from the date of the violation to file an FDCPA lawsuit. This is a strict deadline.
-
-Check your bankruptcy discharge eligibility with our free screening tool.
-Free Discharge Screener
-
-About This Data: Content based on the FDCPA (15 U.S.C. 1692). This is educational content, not legal advice.
-
-You May Also Find Helpful
-
-Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
-
-Bankruptcy Means Test by State -- bankruptcymeanstest.org
-
-1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Bankruptcy Transparency Network
-
-Discharge Screener Open Bankruptcy Project Debt Validation Letter Cease and Desist
-
-Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
-
----
-
-## Medical Zombie Debt -- Old Hospital Bills Coming Back
+## Medical Zombie Debt - Old Hospital Bills Coming Back
 Source: https://zombiedebt.org/medical-zombie-debt.html
 
 Medical Zombie Debt
 
 When Old Hospital Bills Come Back to Haunt You
+
+Home›Medical Zombie Debt - Old Hospital Bills Coming Back | zombiedebt.org›Medical Zombie Debt
 
 ← Zombie Debt Home
 
@@ -740,7 +765,7 @@ Why Medical Debt Becomes Zombie Debt
 
 Medical debt is uniquely vulnerable to becoming zombie debt. Unlike credit card debt where you knowingly sign up for an account, medical debt often arises from emergencies where you had no choice and no opportunity to negotiate price in advance. Insurance claim disputes, billing errors, balance billing after out-of-network care, and the sheer complexity of medical billing mean that many patients do not even know they owe money until a collector calls months or years later.
 
-Hospitals and medical providers routinely sell unpaid accounts to collection agencies and debt buyers after 120 to 180 days of nonpayment. The accounts are often sold in bulk with minimal documentation -- the debt buyer may receive only a name, address, and balance, without the detailed medical records or insurance explanation of benefits needed to verify the charges.
+Hospitals and medical providers routinely sell unpaid accounts to collection agencies and debt buyers after 120 to 180 days of nonpayment. The accounts are often sold in bulk with minimal documentation - the debt buyer may receive only a name, address, and balance, without the detailed medical records or insurance explanation of benefits needed to verify the charges.
 
 New Protections for Medical Debt
 
@@ -754,11 +779,11 @@ A one-year waiting period before any medical collection can appear on credit rep
 
 Veterans' medical debt from VA-covered treatment is excluded from credit reports
 
-These changes represent the biggest consumer protection advance for medical debt in decades. However, they do not eliminate the debt itself -- collectors can still contact you and sue you. The changes only affect what appears on your credit report. For comprehensive information on medical debt and bankruptcy, see medicaldebtbankruptcy.com.
+These changes represent the biggest consumer protection advance for medical debt in decades. However, they do not eliminate the debt itself - collectors can still contact you and sue you. The changes only affect what appears on your credit report. For comprehensive information on medical debt and bankruptcy, see medicaldebtbankruptcy.com.
 
 Common Medical Billing Errors
 
-Before paying any old medical bill, request an itemized statement and review it carefully. Medical billing errors are widespread -- some studies estimate that more than 30% of medical bills contain errors. Common problems include duplicate charges for the same procedure, charges for services not received, incorrect coding that results in higher charges, failure to apply insurance payments, and balance billing for amounts the insurer already covered.
+Before paying any old medical bill, request an itemized statement and review it carefully. Medical billing errors are widespread - some studies estimate that more than 30% of medical bills contain errors. Common problems include duplicate charges for the same procedure, charges for services not received, incorrect coding that results in higher charges, failure to apply insurance payments, and balance billing for amounts the insurer already covered.
 
 If the debt has been sold to a collector, you still have the right to request the itemized bill from the original provider. Many consumers discover that what a debt buyer is collecting does not match what the hospital originally billed, or that insurance payments were never properly credited.
 
@@ -770,7 +795,7 @@ Contact the hospital's billing department directly and ask about their financial
 
 When Bankruptcy Is the Best Option
 
-Medical debt is fully dischargeable in bankruptcy -- both Chapter 7 and Chapter 13. Medical bills are unsecured, non-priority debt, which means they are treated the same as credit card debt and eliminated completely upon discharge. Medical debt is one of the leading causes of bankruptcy filings in the United States.
+Medical debt is fully dischargeable in bankruptcy - both Chapter 7 and Chapter 13. Medical bills are unsecured, non-priority debt, which means they are treated the same as credit card debt and eliminated completely upon discharge. Medical debt is one of the leading causes of bankruptcy filings in the United States.
 
 If medical zombie debt is one of many financial pressures you are facing, explore your options at howmuchdoesbankruptcycost.com and check your eligibility with the free discharge screener.
 
@@ -817,24 +842,26 @@ Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Pr
 
 ---
 
-## Phantom Debt -- When Collectors Chase Debts That Never Existed
+## Phantom Debt - When Collectors Chase Debts That Never Existed
 Source: https://zombiedebt.org/phantom-debt.html
 
 Phantom Debt
 
 When Collectors Chase Debts That Never Existed
 
+Home›Phantom Debt - When Collectors Chase Debts That Never Existed | zombiedebt.org›Phantom Debt
+
 ← Zombie Debt Home
 
 What Is Phantom Debt?
 
-Phantom debt goes beyond zombie debt into outright fraud. While zombie debt involves real debts from the past being revived, phantom debt refers to completely fabricated obligations -- debts you never owed to anyone. Scammers create fake accounts using personal information stolen from data breaches, old loan applications, or purchased on the dark web, then attempt to collect money through aggressive tactics.
+Phantom debt goes beyond zombie debt into outright fraud. While zombie debt involves real debts from the past being revived, phantom debt refers to completely fabricated obligations - debts you never owed to anyone. Scammers create fake accounts using personal information stolen from data breaches, old loan applications, or purchased on the dark web, then attempt to collect money through aggressive tactics.
 
-The Federal Trade Commission has brought multiple enforcement actions against phantom debt operations, some of which collected millions of dollars from consumers who paid debts they never actually owed. These operations often target vulnerable populations -- the elderly, recent immigrants, and people with existing financial stress who may not question an unexpected collection call.
+The Federal Trade Commission has brought multiple enforcement actions against phantom debt operations, some of which collected millions of dollars from consumers who paid debts they never actually owed. These operations often target vulnerable populations - the elderly, recent immigrants, and people with existing financial stress who may not question an unexpected collection call.
 
 How Phantom Debt Scams Work
 
-Phantom debt scammers use personal information to create an illusion of legitimacy. They may know your name, address, date of birth, and partial Social Security number -- enough to make you believe the debt is real. Common approaches include:
+Phantom debt scammers use personal information to create an illusion of legitimacy. They may know your name, address, date of birth, and partial Social Security number - enough to make you believe the debt is real. Common approaches include:
 
 Claiming you owe on a payday loan you never took out (using stolen application data)
 
@@ -844,7 +871,7 @@ Threatening arrest, wage garnishment, or lawsuits if you do not pay immediately
 
 Demanding payment by wire transfer, prepaid debit card, or cryptocurrency (untraceable methods)
 
-Creating urgency -- "pay today or we file criminal charges"
+Creating urgency - "pay today or we file criminal charges"
 
 Legitimate debt collectors do not threaten arrest (debt is a civil matter, not criminal), do not demand payment by gift card, and must provide written validation upon request.
 
@@ -868,15 +895,15 @@ The collector becomes aggressive when you ask questions
 
 How to Protect Yourself
 
-Never provide personal information or make a payment based on a phone call alone. Request written validation -- a legitimate collector must provide it. Check all three credit reports for the alleged account. If the debt does not appear on any report and you have no record of it, it is almost certainly phantom.
+Never provide personal information or make a payment based on a phone call alone. Request written validation - a legitimate collector must provide it. Check all three credit reports for the alleged account. If the debt does not appear on any report and you have no record of it, it is almost certainly phantom.
 
-Report phantom debt scams to the FTC (reportfraud.ftc.gov), the CFPB (consumerfinance.gov), your state attorney general, and local law enforcement. If you are receiving threatening calls, send a cease and desist letter. Document everything -- these reports help agencies build cases against large-scale scam operations.
+Report phantom debt scams to the FTC (reportfraud.ftc.gov), the CFPB (consumerfinance.gov), your state attorney general, and local law enforcement. If you are receiving threatening calls, send a cease and desist letter. Document everything - these reports help agencies build cases against large-scale scam operations.
 
 Frequently Asked Questions
 
 What is phantom debt?
 
-Phantom debt is a completely fabricated debt -- one you never owed in the first place. Scammers create fake accounts using stolen personal information and attempt to collect money through threats and intimidation.
+Phantom debt is a completely fabricated debt - one you never owed in the first place. Scammers create fake accounts using stolen personal information and attempt to collect money through threats and intimidation.
 
 How do phantom debt scammers get my information?
 
@@ -894,6 +921,10 @@ Check your bankruptcy discharge eligibility with our free screening tool.
 Free Discharge Screener
 
 About This Data: Content based on the FDCPA and FTC enforcement actions. Educational content, not legal advice.
+
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
 
 You May Also Find Helpful
 
@@ -913,24 +944,26 @@ Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Pr
 
 ---
 
-## Statute of Limitations on Zombie Debt -- State-by-State Rules
+## Statute of Limitations on Zombie Debt - State-by-State Rules
 Source: https://zombiedebt.org/statute-of-limitations.html
 
 Statute of Limitations on Zombie Debt
 
 When Old Debts Become Legally Uncollectible
 
+Home›Statute of Limitations on Zombie Debt - State-by-State Rules | zombiedebt.org›Statute of Limitations on Zombie Debt
+
 ← Zombie Debt Home
 
 What Is the Statute of Limitations on Debt?
 
-Every state sets a time limit on how long a creditor can sue you to collect a debt. This is called the statute of limitations. Once that period expires, the debt becomes "time-barred" -- meaning the creditor or debt collector loses the legal right to use the court system to force you to pay.
+Every state sets a time limit on how long a creditor can sue you to collect a debt. This is called the statute of limitations. Once that period expires, the debt becomes "time-barred" - meaning the creditor or debt collector loses the legal right to use the court system to force you to pay.
 
 The clock typically starts running from the date of your last payment or the date you last acknowledged the debt. Limitation periods vary by state and by the type of debt, generally ranging from 3 to 10 years. For a complete state-by-state guide, visit debtstatuteoflimitations.com.
 
 Why the Statute of Limitations Matters for Zombie Debt
 
-Most zombie debt -- old, charged-off accounts purchased by debt buyers -- is already past the statute of limitations. The debt may be 5, 10, or even 20 years old. Despite this, debt buyers routinely contact consumers about time-barred debt, hoping that consumers do not know their rights.
+Most zombie debt - old, charged-off accounts purchased by debt buyers - is already past the statute of limitations. The debt may be 5, 10, or even 20 years old. Despite this, debt buyers routinely contact consumers about time-barred debt, hoping that consumers do not know their rights.
 
 Some aggressive debt buyers even file lawsuits on time-barred debt, counting on consumers to fail to raise the statute of limitations defense. If you do not appear in court or do not assert this defense, the collector can obtain a default judgment against you, which is then enforceable for years.
 
@@ -952,11 +985,11 @@ Which State's Law Applies?
 
 Determining which state's statute of limitations applies can be complicated. Factors include where you lived when the debt was incurred, where you live now, what your credit agreement says about governing law, and where the creditor is located. Some courts apply the law of the state specified in the credit agreement, while others apply the law of the consumer's state of residence.
 
-When two states' laws could apply, some courts use the "borrowing statute" -- applying whichever state's limitation period is shorter. This consumer-friendly approach prevents creditors from forum-shopping for states with longer limitation periods.
+When two states' laws could apply, some courts use the "borrowing statute" - applying whichever state's limitation period is shorter. This consumer-friendly approach prevents creditors from forum-shopping for states with longer limitation periods.
 
 What to Do If Contacted About Time-Barred Debt
 
-Do not make any payments or promises to pay. Do not acknowledge the debt is yours. Request validation in writing using a debt validation letter. Document every communication -- dates, times, what was said. If the collector threatens to sue on time-barred debt, file a complaint with the Consumer Financial Protection Bureau (CFPB) and your state attorney general.
+Do not make any payments or promises to pay. Do not acknowledge the debt is yours. Request validation in writing using a debt validation letter. Document every communication - dates, times, what was said. If the collector threatens to sue on time-barred debt, file a complaint with the Consumer Financial Protection Bureau (CFPB) and your state attorney general.
 
 If you are sued on time-barred debt, respond to the lawsuit and assert the statute of limitations as an affirmative defense. Do not ignore the summons. Learn what happens if you do not respond at defaultjudgment.org.
 
@@ -1009,3 +1042,75 @@ Debt Validation Letter
 Stop Debt Collectors
 
 Free bankruptcy education for the public interest. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+---
+
+## Privacy Policy - zombiedebt.org
+Source: https://zombiedebt.org/privacy.html
+
+zombiedebt.org
+
+Home
+Privacy
+
+Privacy Policy
+
+How we handle your data. Short version: we don't sell it, share it, or use it for advertising.
+
+Data We Collect
+
+We use Google Analytics (GA4) to measure aggregate site traffic. This includes page views, session duration, approximate geographic region (country and city level), and device type. We do not collect names, email addresses, or personally identifiable information through analytics.
+
+Aggregate event data from Google Analytics is also exported to Google BigQuery for research use. The BigQuery data is used only for internal trajectory analysis and network health reports, is not shared with third parties, and is not used for advertising.
+
+What We Don't Do
+
+We do not sell data. We do not run advertising. We do not collect financial information. We do not use retargeting. We do not share any user data with attorneys, law firms, creditors, debt collectors, or legal service providers.
+
+Specifically, we do not enable Google Signals, Google Ads integration, User-ID collection, or any cross-device tracking feature in Google Analytics. GA4 operates in aggregate-traffic-measurement mode only on this site.
+
+Cookies
+
+We use only first-party cookies set by Google Analytics for aggregate traffic measurement. We do not use advertising cookies, tracking pixels, or third-party analytics cookies.
+
+Third-Party Services
+
+Google Analytics (GA4) - aggregate traffic measurement
+
+Google BigQuery - aggregate event data warehouse for research use only; not shared, not used for advertising
+
+Google Search Console - search query measurement (clicks, impressions, our own page rankings)
+
+GitHub Pages - hosting
+
+Contact Forms & Email
+
+This site may link to contact forms or email addresses operated by the Open Bankruptcy Project. Any data you submit through those channels is handled under the Open Bankruptcy Project master privacy policy, which governs all sites in this network.
+
+Children's Privacy
+
+This site is not directed at children under 13. We do not knowingly collect information from children.
+
+Data Retention
+
+Analytics data is retained for 14 months per Google's standard retention settings. After that window, individual event data is automatically deleted by Google; aggregate report metrics remain available.
+
+Your Rights
+
+You may request deletion of any personal data we hold by contacting info@openbankruptcyproject.org. California residents have additional rights under CCPA. EU residents have additional rights under GDPR. All such requests are handled by the Open Bankruptcy Project.
+
+Network Policy
+
+This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+
+Changes
+
+We may update this policy from time to time. Changes are reflected on the master policy first and then mirrored across all network sites. Check the master policy for the most current version.
+
+Effective: March 30, 2026  |  Updated: April 11, 2026
+
+Home  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.
