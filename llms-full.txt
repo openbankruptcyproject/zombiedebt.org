@@ -96,7 +96,7 @@ Part of the Bankruptcy Transparency Network
 
 Discharge Screener Open Bankruptcy Project Credit Score & Bankruptcy Statute of Limitations
 
-Free bankruptcy education for the public interest. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+Free bankruptcy education for the public interest. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 ---
 
@@ -214,7 +214,7 @@ Statute of Limitations
 
 Free bankruptcy education for the public interest. Not legal advice.
 A project of the Open Bankruptcy Project,
-a 501(c)(3) nonprofit (determination pending).
+a 501(c)(3) nonprofit.
 
 ---
 
@@ -304,7 +304,7 @@ Part of the Bankruptcy Transparency Network
 
 Discharge Screener Debt Validation Letter Open Bankruptcy Project Stop Collectors
 
-Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 ---
 
@@ -390,7 +390,7 @@ Part of the Bankruptcy Transparency Network
 
 Discharge Screener Discharge Injunction Open Bankruptcy Project Bankruptcy Discharge
 
-Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 ---
 
@@ -476,7 +476,7 @@ Part of the Bankruptcy Transparency Network
 
 Discharge Screener Open Bankruptcy Project Debt Validation Letter Cease and Desist
 
-Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 ---
 
@@ -562,7 +562,7 @@ We buy federal court records and donate them to RECAP so no one has to pay. Brow
 
 $16,500+ spent · $0 donated · $0 hosting · 105 domains · 2,000+ pages · All free, forever.
 
-This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit, funding PACER access fees and bankruptcy court transparency research.
 
 ♥ Sponsor
 
@@ -739,7 +739,7 @@ Rule 9037 PII Scanner
 Free bankruptcy education for the public interest. Not legal advice.
 If you need legal help, contact a licensed attorney in your state.
 A project of the Open Bankruptcy Project,
-a 501(c)(3) nonprofit (determination pending).
+a 501(c)(3) nonprofit.
 
 Privacy |
 Terms
@@ -838,7 +838,7 @@ Part of the Bankruptcy Transparency Network
 
 Discharge Screener Medical Debt & Bankruptcy Open Bankruptcy Project Bankruptcy Cost
 
-Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 ---
 
@@ -940,7 +940,7 @@ Part of the Bankruptcy Transparency Network
 
 Discharge Screener Open Bankruptcy Project Cease and Desist Debt Validation Letter
 
-Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+Free bankruptcy education. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 ---
 
@@ -1041,7 +1041,7 @@ Statute of Limitations
 Debt Validation Letter
 Stop Debt Collectors
 
-Free bankruptcy education for the public interest. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+Free bankruptcy education for the public interest. Not legal advice. A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 ---
 
@@ -1101,7 +1101,7 @@ You may request deletion of any personal data we hold by contacting info@openban
 
 Network Policy
 
-This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit. The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
 
 Changes
 
