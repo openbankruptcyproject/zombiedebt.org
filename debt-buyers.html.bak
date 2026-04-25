@@ -140,27 +140,6 @@ main{padding:0}
 </style>
 
 <link rel="alternate" hreflang="es" href="https://zombiedebt.org/debt-buyers-es.html">
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NonprofitOrganization",
-  "name": "Open Bankruptcy Project",
-  "alternateName": "OBP",
-  "url": "https://openbankruptcyproject.org",
-  "email": "info@openbankruptcyproject.org",
-  "taxID": "41-5159631",
-  "nonprofitStatus": "Nonprofit501c3",
-  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1000 W 100th St",
-    "addressLocality": "Kansas City",
-    "addressRegion": "MO",
-    "postalCode": "64114",
-    "addressCountry": "US"
-  }
-}
-</script>
 </head>
 <body>
 <header>
@@ -273,7 +252,7 @@ main{padding:0}
 <footer class="network-footer" role="contentinfo">
   <p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.</p>
 
-  <p><strong>Part of the Open Bankruptcy Project</strong></p>
+  <p><strong>Part of the Bankruptcy Transparency Network</strong></p>
   <div class="links">
     <a href="https://1328f.com?utm_source=zombiedebt.org&utm_medium=referral&utm_campaign=btn-network">Discharge Screener</a>
     <a href="https://openbankruptcyproject.org?utm_source=zombiedebt.org&utm_medium=referral&utm_campaign=btn-network">Open Bankruptcy Project</a>
@@ -283,7 +262,7 @@ main{padding:0}
   </div>
   <p class="disclaimer">Free bankruptcy education for the public interest. Not legal advice.
     A project of the <a href="https://openbankruptcyproject.org?utm_source=zombiedebt.org&utm_medium=referral&utm_campaign=btn-network">Open Bankruptcy Project</a>,
-    a 501(c)(3) public charity (EIN 41-5159631).</p>
+    a 501(c)(3) nonprofit.</p>
 </footer>
 <!-- BTN:FOOTER:END -->
 
